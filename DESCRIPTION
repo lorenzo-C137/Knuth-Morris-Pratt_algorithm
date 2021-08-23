@@ -1,0 +1,18 @@
+Package: KMP
+Title: Positions of a substring in a text
+Version: 1.0.0
+Authors@R: 
+    person(given = "Lorenzo",
+           family = "Brochier",
+           role = c("aut", "cre"),
+           email = "lorenzomathieu.brochier@mail.polimi.it")
+Description: The package contains 2 functions, KMP and kmp_index, used to compute the number of
+             occurrences of a substring P in a text S, through the use of the Knuth-Morris-Pratt algorithm.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
