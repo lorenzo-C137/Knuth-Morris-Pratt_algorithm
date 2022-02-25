@@ -1,5 +1,5 @@
 # Knuth-Morris-Pratt
-Knuth-Morris-Pratt algorithm implementation in R
+Knuth-Morris-Pratt algorithm package implementation in R
 
 ## Implements 2 functions:
  - the one that creates the index of the pattern
